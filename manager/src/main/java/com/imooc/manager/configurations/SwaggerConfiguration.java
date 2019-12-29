@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Configuration;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author: Xyong
+ * @author: 
  * @since: 2019/11/5-----------------------ddddddddddd-----
  */
 @Configuration
